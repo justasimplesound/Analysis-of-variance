@@ -3,6 +3,7 @@ Study project where ANOVA is used
 
 
 Here I tried sampling, Shapiro-Wilk test, Tukey's test and ANOVA itself
+
 The CSV's are about food delivery service
 
 5_task_1:
