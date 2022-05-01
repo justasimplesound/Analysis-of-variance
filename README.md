@@ -1,5 +1,5 @@
 ## Here I tried sampling, Shapiro-Wilk test, Tukey's test and ANOVA
-## The CSV's are about food delivery service
+## The CSVs are about food delivery service
 <br />
 
 ### 5_task_1:
